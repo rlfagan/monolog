@@ -2,6 +2,7 @@
 
 [![Total Downloads](https://img.shields.io/packagist/dt/monolog/monolog.svg)](https://packagist.org/packages/monolog/monolog)
 [![Latest Stable Version](https://img.shields.io/packagist/v/monolog/monolog.svg)](https://packagist.org/packages/monolog/monolog)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmonolog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmonolog?ref=badge_shield)
 
 
 Monolog sends your logs to files, sockets, inboxes, databases and various
@@ -98,6 +99,9 @@ See also the list of [contributors](https://github.com/Seldaek/monolog/contribut
 ### License
 
 Monolog is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmonolog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmonolog?ref=badge_large)
 
 ### Acknowledgements
 
